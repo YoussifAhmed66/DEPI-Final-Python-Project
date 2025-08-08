@@ -10,8 +10,7 @@ This project is a Python-based Employee Management System implemented as a Jupyt
 3. EmployeeManager Class
 4. Main CLI Program
 5. File Structure
-6. Usage
-7. Limitations and Notes
+6. Error Handeling
 
 --- 
 
